@@ -1,4 +1,7 @@
-## Links to various things here assembled in one place
+---
+layout: home
+---
+Links to various things here assembled all (or at least some) in one place.
 
 [3 + 4: My old Newspeak and Smalltalk-themed blog](https://ast-hugger.github.io/3plus4/) 
 
